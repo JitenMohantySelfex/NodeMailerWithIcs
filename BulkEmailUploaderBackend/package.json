@@ -1,0 +1,41 @@
+{
+  "name": "bulkemailuploaderbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.848.0",
+    "@types/ws": "^8.18.1",
+    "aws-sdk": "^2.1692.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.4",
+    "mongoose-paginate-v2": "^1.9.1",
+    "multer": "^2.0.2",
+    "nodemailer": "^7.0.5",
+    "ws": "^8.18.3",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/mongoose-paginate-v2": "^1.6.4",
+    "@types/multer": "^2.0.0",
+    "@types/node": "^24.1.0",
+    "@types/nodemailer": "^6.4.17",
+    "@types/xlsx": "^0.0.35",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

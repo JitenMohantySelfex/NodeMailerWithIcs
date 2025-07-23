@@ -1,0 +1,37 @@
+{
+  "name": "doordash-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "simple": "node simple-scraper.js",
+    "process": "node process_data.js",
+    "sample": "node create-sample-data.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "doordash",
+    "scraper",
+    "puppeteer",
+    "web-scraping",
+    "automation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.3",
+    "puppeteer": "^24.12.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}

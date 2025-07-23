@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.848.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "ics": "^3.8.1",
+    "luxon": "^3.7.1",
+    "nodemailer": "^7.0.5"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/luxon": "^3.6.2",
+    "@types/node": "^24.1.0",
+    "@types/nodemailer": "^6.4.17",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
