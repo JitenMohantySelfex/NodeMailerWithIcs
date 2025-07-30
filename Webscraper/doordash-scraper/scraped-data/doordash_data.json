@@ -1,0 +1,700 @@
+{
+  "restaurants": [],
+  "orders": [],
+  "userProfile": {},
+  "groceryStores": [
+    {
+      "href": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/22976874?pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/store/25066114?cursor=eyJzdG9yZV92ZXJ0aWNhbF9pZCI6Mywic3RvcmVfcHJpbWFyeV92ZXJ0aWNhbF9pZHMiOlsxMTAwMDIsMTEwMDA1LDExMDAwNiwxMTAwMDcsMTEwMDA4LDExMDAxMSwxMTAwMTMsMTEwMDE0LDExMDAxNSwxMTAwMTYsMTEwMDE3LDExMDAzMywxMTAwMzQsMTgwLDE5MSwxOTIsMTkzLDE5NSwyNzIsMjczLDI4MCwyODMsMjg1LDMsNCwxMDAzMzMsMTk0LDI2OF19&pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/1611621?pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/store/2194633?cursor=eyJzdG9yZV92ZXJ0aWNhbF9pZCI6Mywic3RvcmVfcHJpbWFyeV92ZXJ0aWNhbF9pZHMiOlsxMTAwMDIsMTEwMDA1LDExMDAwNiwxMTAwMDcsMTEwMDA4LDExMDAxMSwxMTAwMTMsMTEwMDE0LDExMDAxNSwxMTAwMTYsMTEwMDE3LDExMDAzMywxMTAwMzQsMTgwLDE5MSwxOTIsMTkzLDE5NSwyNzIsMjczLDI4MywyODUsMyw0LDEwMDMzMywxOTQsMjY4XX0=&pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/store/28915424?cursor=eyJzdG9yZV92ZXJ0aWNhbF9pZCI6Mywic3RvcmVfcHJpbWFyeV92ZXJ0aWNhbF9pZHMiOlsxMTAwMDIsMTEwMDA1LDExMDAwNiwxMTAwMDcsMTEwMDA4LDExMDAxMSwxMTAwMTMsMTEwMDE0LDExMDAxNSwxMTAwMTYsMTEwMDE3LDExMDAzMywxMTAwMzQsMTgwLDE5MSwxOTIsMTkzLDE5NSwyNzIsMjczLDI4MywyODUsMyw0LDEwMDMzMywxOTQsMjY4XX0=&pickup=false",
+      "text": "",
+      "title": ""
+    },
+    {
+      "href": "https://www.doordash.com/store/26159290?cursor=eyJzdG9yZV92ZXJ0aWNhbF9pZCI6Mywic3RvcmVfcHJpbWFyeV92ZXJ0aWNhbF9pZHMiOlsxMTAwMDIsMTEwMDA1LDExMDAwNiwxMTAwMDcsMTEwMDA4LDExMDAxMSwxMTAwMTMsMTEwMDE0LDExMDAxNSwxMTAwMTYsMTEwMDE3LDExMDAzMywxMTAwMzQsMTgwLDE5MSwxOTIsMTkzLDE5NSwyNzIsMjczLDI4MywyODUsMyw0LDEwMDMzMywxOTQsMjY4XX0=&pickup=false",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "groceryProducts": [
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "Foodary Full Cream Milk (2 L)",
+      "currentPrice": "$480",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "H2melon Pure Watermelon Water Can (500 ml)",
+      "currentPrice": "$490",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "Yoghurt Shop Apple Crumble Greek Yoghurt (190 g)",
+      "currentPrice": "$575",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "Foodary Lite Milk (2 L)",
+      "currentPrice": "$480",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "Rokeby Farms Protein Smoothie Vanilla Wafer 425ml",
+      "currentPrice": "$650",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "Yoghurt Shop Belgian Triple Choc Greek Yoghurt (170 g)",
+      "currentPrice": "$635",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "Dare No Sugar Added Triple Espresso Iced Coffee Bottle (500 ml)",
+      "currentPrice": "$590",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "Shine+ Zero Sugar Charged Nootropic Black Cherry Energy Drink Can (500 ml)",
+      "currentPrice": "$795",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/24578194?pickup=false",
+      "name": "Dare Products No Added Sugar Double Espresso Iced Coffee Bottle (300 ml)",
+      "currentPrice": "$490",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Tasman Seafood Highlighter (2 kg)",
+      "currentPrice": "$1812",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "YoPRO Vanilla Yoghurt (160 g x 8 pk)",
+      "currentPrice": "$1933",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Gourmet Basics Mikasa Tully Basket",
+      "currentPrice": "$3626",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Crunchy Roasted Edamame Beans (510 g)",
+      "currentPrice": "$1812",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Harvest Box Freeze Dried Choc Dipped Mango (453 g)",
+      "currentPrice": "$1812",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Gochujang Panfry Mandu Dumpling (1.13 kg)",
+      "currentPrice": "$2417",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Fior Di Maso Provolone Valpadana Dop (400 g)",
+      "currentPrice": "$1208",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Evergreen Hard Tofu (650 g)",
+      "currentPrice": "$543",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Savlon Antiseptic Cream (75 g)",
+      "currentPrice": "$821",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Vanderbilt Home Gullwing Deluxe Drying Rack With Mesh Shelf",
+      "currentPrice": "$6648",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Great Temptations Honey Oat Bakers (12 pk)",
+      "currentPrice": "$2053",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Greenlip Abalone (1 kg)",
+      "currentPrice": "$6044",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Knorr Chicken Powder (1 kg)",
+      "currentPrice": "$2175",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "The Cheese Rebels Flavour Bomb Truffle Cheddar (700 g)",
+      "currentPrice": "$3021",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Takehome Thai Savours Rice Crackers (160 g)",
+      "currentPrice": "$1087",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Eastcoast Apple Blackcurrant Juice (400 ml x 6 pk)",
+      "currentPrice": "$1087",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Polder E-Z Reach Rotating Tray (2 pk)",
+      "currentPrice": "$4835",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Pain Away Forte+ Joint & Muscle Cream (150 g x 2 pk)",
+      "currentPrice": "$5923",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Mars Milky Way (45 g x 24 pk)",
+      "currentPrice": "$3383",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Wrigley's Eclipse Grape (40 g x 12 pk)",
+      "currentPrice": "$3626",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/32185267?pickup=false",
+      "name": "Mentos Fruit Roll (37.5 g x 40 pk)",
+      "currentPrice": "$6043",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Raspberries Punnet",
+      "currentPrice": "$900",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Pumpkin Butternut Cut",
+      "currentPrice": "$395",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Brushed Potato",
+      "currentPrice": "$095",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Granny Smith Apple",
+      "currentPrice": "$195",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Parsley",
+      "currentPrice": "$450",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Capsicum Red",
+      "currentPrice": "$400",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Royal Gala Apple",
+      "currentPrice": "$150",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Whole Cauliflower",
+      "currentPrice": "$1000",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Basil Bunch",
+      "currentPrice": "$350",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Green Pear",
+      "currentPrice": "$195",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Capsicum Green",
+      "currentPrice": "$295",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Chilli Red Long",
+      "currentPrice": "$095",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Snow Peas 150g",
+      "currentPrice": "$595",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Eschallots Bunch",
+      "currentPrice": "$395",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Cauliflower Half",
+      "currentPrice": "$600",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Whole Rockmelon",
+      "currentPrice": "$650",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Cabbage Green Plain Whole",
+      "currentPrice": "$500",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Red Delicious Apple",
+      "currentPrice": "$195",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1345205?pickup=false",
+      "name": "Kale Bunch",
+      "currentPrice": "$595",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Granny Smith Apple",
+      "currentPrice": "$113",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Seedless Whole Watermelon",
+      "currentPrice": "$1088",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Coles Loose Royal Gala Apple",
+      "currentPrice": "$110",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Cole's Jazz Apple",
+      "currentPrice": "$165",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Coles Organic Banana",
+      "currentPrice": "$132",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Coles Medium Lime",
+      "currentPrice": "$185",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Coles Lemons",
+      "currentPrice": "$760",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Coles I'm Perfect Avocados",
+      "currentPrice": "$605",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Red Delicious Medium Apple",
+      "currentPrice": "$094",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Oranges Navel",
+      "currentPrice": "$108",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Coles Apples Royal Gala Organic",
+      "currentPrice": "$860",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Half Honeydew Melon",
+      "currentPrice": "$385",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Coles Large Honeydew Melon",
+      "currentPrice": "$760",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Driscoll's Blackberries",
+      "currentPrice": "$660",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/23825570?pickup=false",
+      "name": "Coles I'M Perfect Apples Prepacked",
+      "currentPrice": "$870",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    }
+  ],
+  "scrapedAt": "2025-07-16T12:24:09.331Z"
+}

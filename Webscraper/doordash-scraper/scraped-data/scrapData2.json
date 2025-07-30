@@ -1,0 +1,1310 @@
+{
+  "restaurants": [],
+  "orders": [],
+  "userProfile": {},
+  "groceryStores": [
+    {
+      "href": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "1741590"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "1740894"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "1029693"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "29409326"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/24325270?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "24325270"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/2456523?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "2456523"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/26244005?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "26244005"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/33499893?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "33499893"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/32344223?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "32344223"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/2833959?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "2833959"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/26212067?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "26212067"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/23373030?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "23373030"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/34589087?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "34589087"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/26234702?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "26234702"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/28138515?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "28138515"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/1540867?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "1540867"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/1648197?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "1648197"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/1629504?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "1629504"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/31404395?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "31404395"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/24915386?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "24915386"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/1768932?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "1768932"
+    },
+    {
+      "href": "https://www.doordash.com/store/24852875?cursor=eyJzdG9yZV92ZXJ0aWNhbF9pZCI6Mywic3RvcmVfcHJpbWFyeV92ZXJ0aWNhbF9pZHMiOlsxMTAwMDIsMTEwMDA1LDExMDAwNiwxMTAwMDcsMTEwMDA4LDExMDAxMSwxMTAwMTMsMTEwMDE0LDExMDAxNSwxMTAwMTYsMTEwMDE3LDExMDAzMywxMTAwMzQsMTgwLDE5MiwxOTMsMTk1LDIsMjcyLDI3MywyODMsMjg1LDQsMTc3LDI2OF19&pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "24852875"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/27857684?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "27857684"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/27970908?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "27970908"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/30743515?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "30743515"
+    },
+    {
+      "href": "https://www.doordash.com/convenience/store/24895853?pickup=false",
+      "text": "",
+      "title": "",
+      "storeId": "24895853"
+    }
+  ],
+  "groceryProducts": [
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Signature Farms Boneless Skinless Chicken Thighs",
+      "currentPrice": "$649",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Isernio's 96% Lean Ground Chicken",
+      "currentPrice": "$899",
+      "originalPrice": "$10.99",
+      "discount": "18% off",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Signature Farms Boneless Skinless Chicken Breast Value Pack with Rib Meat",
+      "currentPrice": "$399",
+      "originalPrice": "$5.99",
+      "discount": "33% off",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Foster Farms Whole Chicken",
+      "currentPrice": "$249",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Open Nature Ground Chicken 96% Lean",
+      "currentPrice": "$999",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Marcangelo Foods Sweet Chili Lime Chicken Skewer",
+      "currentPrice": "$599",
+      "originalPrice": "$9.49",
+      "discount": "36% off",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Foster Farms Simply Raised Chicken Wings Bone-In Skin-On",
+      "currentPrice": "$799",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Signature Farms Value Pack Skin-On Chicken Drumsticks",
+      "currentPrice": "$249",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Isernio's All Natural 96% Lean 4% Fat Ground Chicken",
+      "currentPrice": "$1499",
+      "originalPrice": "$19.99",
+      "discount": "25% off",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Foster Farms Simply Raised Chicken Thighs",
+      "currentPrice": "$349",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Foster Farms Simply Raised Chicken Drumsticks",
+      "currentPrice": "$399",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Open Nature Ground Pork 80% Lean",
+      "currentPrice": "$599",
+      "originalPrice": "$7.49",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Carando Hot Sicilian Meatballs",
+      "currentPrice": "$849",
+      "originalPrice": "$9.79",
+      "discount": "N/A",
+      "rating": "4.4",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Smithfield Hickory Smoked Boneless Sliced Pork Chops",
+      "currentPrice": "$899",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "4.8",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Primo Taglio Hickory Smoked Ham Off The Bone",
+      "currentPrice": "$1099",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Papa Cantella's Al Pastor Style Ground Pork",
+      "currentPrice": "$899",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Hormel Foods Always Tender Pork Loin Filet Mesquite Barbecue",
+      "currentPrice": "$1149",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Niman Ranch Salt Pork",
+      "currentPrice": "$799",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "New York Style 95% Lean Ground Pork 5% Fat",
+      "currentPrice": "$659",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Bone-in Pork Shoulder Blade Steak",
+      "currentPrice": "$999",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Smithfield Hickory Smoked Pork Chops",
+      "currentPrice": "$999",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Big Shoulders Smokehouse Fully Cooked Hickory Smoked Bbq Pulled Pork",
+      "currentPrice": "$1179",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Atlantic Skin-On Salmon Fillet",
+      "currentPrice": "$599",
+      "originalPrice": "$9.29",
+      "discount": "35% off",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Lascco Nova Kosher Cured Hardwood Smoked Long Sliced Nova Salmon",
+      "currentPrice": "$719",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Farm Raised Atlantic Salmon Fillet value pack",
+      "currentPrice": "$1249",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Echo Falls Kosher Scottish Smoked Traditional Salmon",
+      "currentPrice": "$1199",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Fresh Color Added Atlantic Whole Salmon Fillet",
+      "currentPrice": "$1249",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Honey Smoked Fish Co. Fully Cooked Cracked Pepper Honey Smoked Salmon",
+      "currentPrice": "$1349",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Farmed Fresh Color Added Atlantic Salmon Fillet",
+      "currentPrice": "$1299",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Open Nature Alaskan Sockeye Skin Wild Caught Salmon Fillet",
+      "currentPrice": "$1599",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Acme Pre-Sliced Togarashi Smoked Salmon",
+      "currentPrice": "$599",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Honey Smoked Fish Fully Cooked Chipotle & Lime Honey Smoked Salmon",
+      "currentPrice": "$1349",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1741590?pickup=false",
+      "storeId": "1741590",
+      "name": "Farm Raised Color Added Atlantic Salmon Fillet",
+      "currentPrice": "$1249",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Homegrown Organic Farms Lemons (each)",
+      "currentPrice": "$169",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Fresh Cut Fruit Mango Cup",
+      "currentPrice": "$499",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Signature Farms Red Seedless Grapes",
+      "currentPrice": "$799",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Signature Farms Green Grapes Seedless",
+      "currentPrice": "$799",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Black Seedless Grapes",
+      "currentPrice": "$998",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "O Organics Blueberries Organic",
+      "currentPrice": "$799",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Pummelo Grapefruit",
+      "currentPrice": "$399",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Pummelo Grapefruit (each)",
+      "currentPrice": "$399",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Black Pluot",
+      "currentPrice": "$150",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Driscoll's Blackberries Blueberries & Raspberries Rainbow Pack",
+      "currentPrice": "$599",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Signature Farms Lemons",
+      "currentPrice": "$599",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Pepino Melon",
+      "currentPrice": "$350",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Plantain",
+      "currentPrice": "$202",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Strawberry Sunrise Papaya",
+      "currentPrice": "$499",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Moon Drop Grapes",
+      "currentPrice": "$998",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Mandarin/Tangerine Gold Nugget",
+      "currentPrice": "$108",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Mandarin Orange",
+      "currentPrice": "$052",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Tiger Stripe Figs",
+      "currentPrice": "$599",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Comice Pear",
+      "currentPrice": "$125",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1740894?pickup=false",
+      "storeId": "1740894",
+      "name": "Mango Chunks (pack)",
+      "currentPrice": "$899",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Taylor Farms Snow Peas",
+      "currentPrice": "$399",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "First Street Sliced White Mushrooms",
+      "currentPrice": "$249",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "First Street Mushrooms Baby Bella",
+      "currentPrice": "$399",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Arbol Peppers",
+      "currentPrice": "$299",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Taylor Farms Sugar Snap Peas",
+      "currentPrice": "$649",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Broccoli Floret",
+      "currentPrice": "$599",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "True Leaf Shredded Carrots",
+      "currentPrice": "$799",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Spice World Organic Peeled Garlic Bag",
+      "currentPrice": "$499",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Generic Packaged Garlic",
+      "currentPrice": "$199",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Taylor Farms Broccoli And Cauliflower Bag",
+      "currentPrice": "$349",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Rhubarb",
+      "currentPrice": "$299",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "First Street Fresh Peeled Garlic",
+      "currentPrice": "$2499",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Greenline Green Beans",
+      "currentPrice": "$699",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Country Fresh Shiitake Mushrooms",
+      "currentPrice": "$499",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Sticks Carrots",
+      "currentPrice": "$199",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Honey Gold Potato",
+      "currentPrice": "$599",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Vidalia Sweet Onion (each)",
+      "currentPrice": "$999",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "First Street Baby Dutch Red Potatoes",
+      "currentPrice": "$699",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/1029693?pickup=false",
+      "storeId": "1029693",
+      "name": "Carrots Snack Pack",
+      "currentPrice": "$199",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Trolli Sour Bite Crawlers Assorted Flavors Gummi Candy (7.2 oz)",
+      "currentPrice": "$449",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "7-Select Gummi Bears (7 oz)",
+      "currentPrice": "$100",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "7 Select Green Apple Rings (7 oz)",
+      "currentPrice": "$100",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Jolly Rancher Orchard Sour Gummies (5 oz)",
+      "currentPrice": "$200",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Trolli Sweet Peachie Os Gummies (6.3 oz)",
+      "currentPrice": "$429",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Sour Patch Kids Watermelon Soft & Chewy Candy Bag (5 oz)",
+      "currentPrice": "$479",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "7-Select Sea Creatures Gummies (7 oz)",
+      "currentPrice": "$100",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Sour Patch Kids Blue Raspberry Soft & Chewy Candy (8 oz)",
+      "currentPrice": "$479",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Trolli Sour Brite Crawlers Very Berry Gummi Candies (7.2 oz)",
+      "currentPrice": "$449",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Amos Peelerz Mango Gummy Candy (6 oz)",
+      "currentPrice": "$569",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Skittles Soft Wild Berry Gummy Candy Bag (5.8 oz)",
+      "currentPrice": "$300",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Jolly Rancher Gummies Original Flavors (7 oz)",
+      "currentPrice": "$479",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Skittles Sour Gummies Assortment Chewy Candies Bag (5.8 oz)",
+      "currentPrice": "$300",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Sour Patch Kids Soft & Chewy Strawberry Candy (8 oz)",
+      "currentPrice": "$479",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Trolli Sour Brite Squad Gummy Candy (6.3 oz)",
+      "currentPrice": "$449",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Life Savers 5 Flavors Gummy Candy Bag (7 oz)",
+      "currentPrice": "$439",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Life Savers Wild Berries Gummy Candies (7 oz)",
+      "currentPrice": "$439",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Sour Patch Kids Soft & Chewy Tropical Candy (8 oz)",
+      "currentPrice": "$479",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Fruit Gushers Flavor Mixers Fruit Flavored Snacks (4.25 oz)",
+      "currentPrice": "$379",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "SweeTARTS Giant Chewy Candy (1.5 oz)",
+      "currentPrice": "$249",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "7-Select Tropical Fruit Flame Gummies",
+      "currentPrice": "$359",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Skittles Gummies Original Candy Bag (5.8 oz)",
+      "currentPrice": "$300",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Trolli Sour Electric Crawlers Gummi Candy (6.3 oz)",
+      "currentPrice": "$449",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Juicy Drop Assorted Flavors Chewy Taffy & Sour Gel Candy (2.36 oz)",
+      "currentPrice": "$379",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Shaq-A-Licious Sour Chewy XL Gummies Candies Bag (6.2 oz)",
+      "currentPrice": "$300",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Amos Peelerz Orange Gummy Candy (6 oz)",
+      "currentPrice": "$569",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Skittles Gummies Original Candy Share Size (3 oz)",
+      "currentPrice": "$379",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Push Pop Gummy Pop Its Candy (2.0 oz x 8 ct)",
+      "currentPrice": "$459",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Shaq-A-Licious XL Gummies Original Flavors Chewy Candy Bag (6.2 oz)",
+      "currentPrice": "$300",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Sour Patch Kids Glow Ups Soft & Chewy Strawberry-Watermelon Candy (6.7 oz)",
+      "currentPrice": "$479",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Amos Banana Peelerz Gummy (6 oz)",
+      "currentPrice": "$519",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    },
+    {
+      "storeName": "",
+      "storeUrl": "https://www.doordash.com/convenience/store/29409326?pickup=false",
+      "storeId": "29409326",
+      "name": "Amos 4D Edible Building Block Gummy Candy (7 oz)",
+      "currentPrice": "$569",
+      "originalPrice": "N/A",
+      "discount": "N/A",
+      "rating": "N/A",
+      "ratingCount": "N/A"
+    }
+  ],
+  "scrapedAt": "2025-07-16T13:16:17.466Z"
+}
